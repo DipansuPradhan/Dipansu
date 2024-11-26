@@ -1,2 +1,2 @@
 # Dipansu
-First Git repository
+This is my first Git repository.
